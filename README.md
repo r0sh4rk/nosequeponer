@@ -3,7 +3,6 @@ Una pagina creada para alguien que amo tanto
 <!DOCTYPE html>
 <html>
 <head>
-<title>Lo siento</title>
 </head>
 <body style="background-color:#C09FFF;">
 
