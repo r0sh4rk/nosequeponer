@@ -21,10 +21,13 @@ EXISTE EL SPIDERVERSEEEEEEE AAAAAAA.
         le hable a la psicóloga de ti ☻, Te amo Nancy, perdona si no soy tan expresivo como antes, fue uno de mis cambios para mal y sigo trabajando en eso, en la empatía, en mis enojos, en mis miedos... A, gracias por meterme al vicio de Jojo´s, esta bien cagado
         y me gusto xd, abajito te dejaré los soundtracks que descubrí este año, tal vez te gusta una que otra canción, feliz Navidad, te espero debajo de mi arbolito. (hay algunas faltas de ortografía, lo sé, a, sé que me contradije en unas cosas como en mis cambios, solo aclaro que estoy cambiando las cosas que no me gustan y
         no cambiare las cosas que me gustan o son un punto fuerte en mi), Pd: No se porque verga salé el cierre de etiqutas. 
-
-https://music.youtube.com/playlist?list=PLcNhXwl73ExRcNPowjARQP5rhGEFEHvbn&feature=share (esta la creé yo)
-https://music.youtube.com/playlist?list=LRYRB9fBxA8rXS0AmGbOhYffwt8QpQAbCcfDQ&feature=share (esta me la creó Youtube)
      </p>
+
+     <p1>
+<a href="https://music.youtube.com/playlist?list=PLcNhXwl73ExRcNPowjARQP5rhGEFEHvbn&feature=share"> esta la creé yo </a>
+ <a href="https://music.youtube.com/playlist?list=LRYRB9fBxA8rXS0AmGbOhYffwt8QpQAbCcfDQ&feature=share"> esta me la creó Youtube </a>
+
+     </p1> 
 </body>
 </html>
 
