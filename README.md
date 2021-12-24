@@ -3,7 +3,7 @@ EXISTE EL SPIDERVERSEEEEEEE AAAAAAA.
 <html>
 <head>
 </head>
-<body style="background-color:#ffffff;">
+<body style="background-color:#000000;">
 
   <h1 style="color:#FFFFFF;font-family:Arial;font-size:250%;text-align:center;">No se que poner aca</h1>
    <p style="color:rgb(212, 0, 255);font-size:130%;font-family:arial;text-align:center">Hola (:, weno, supongo que sabes el porque de la página y todo, en primera, iba a poner el cubito pero estorba demasiado y mejor así, weno, hoy es 24 de Diciembte del 2021, y diras <a> "no mames ya sé", obvio, bueno... 
