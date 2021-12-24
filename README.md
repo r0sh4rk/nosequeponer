@@ -6,26 +6,11 @@ EXISTE EL SPIDERVERSEEEEEEE AAAAAAA.
 <body style="background-color:#000000;">
 
   <h1 style="color:#FFFFFF;font-family:Arial;font-size:250%;text-align:center;">No se que poner aca</h1>
-   <p style="color:rgb(212, 0, 255);font-size:130%;font-family:arial;text-align:center">Hola (:, weno, supongo que sabes el porque de la página y todo, en primera, iba a poner el cubito pero estorba demasiado y mejor así, weno, hoy es 24 de Diciembte del 2021, y diras <a> "no mames ya sé", obvio, bueno... 
-        me pone algo nostalgico pensar que ya casi es fin de año, no le tomo mucha importancia a esto porque ya no me hace sentir como antes, triste y deprimido, me siento tranquilo sinceramente
-        y es que... Pasaron demasiadas cosas este año, no exceptuo que me puse triste por cosas, pero las más importantes fueron que valió verga la BUAP jajaja, acabé el bachiller, sobreviví a la pandemia
-        conocí nuevas personas, tengo más amigos que en poco tiempo me han demostrado que soy importante, disfrute todo a pesar de las cosas malas que me pasaron, una de las mejores cosas que me paso este año fuiste tu...
-        De alguna manera regresaste a mi vida, fue fugas, tuvimos pequeñas discusiones sobre nosotros, y pues... Realmente me gusto volver a estar contigo 2 días más, fuiste lo más importante de mi año y tal vez pienses "que cliche" pero pues
-        tal vez lo sea, idk, soy así, no puedo cambiar, gracias a las terapias y el poder desahogarme en un diario, estoy cambiando para bien, quisiera hablar contigo pero pues... No te puedo obligar a hablarme U-U, me gusta imaginar que la vida es
-        como una serie, este año tuve mi final de temporada, entre a la universida a una carrera que no me acordaba que me gustaba y existía, sufrí un vergo, extrañe... Te extrañe, se añadieron nuevos soundtracks a mi temporada, nuevos personajes secundarios
-        fueron añadidos, escenarios desbloqueados, cambio de outfit y fisico, y mi forma de ser... Creo que fue el cambio más importante que he hecho en mi vida, cambié demasiado y pues... Me siento a gusto con 
-        el cambio, maybe a unos les enoje, no les guste o les desagrade pero a mi me gusta ser así. Si no quieres contestar el mensaje del link no lo hagas, solo te pedire una cosa, el fin de año nuevo, abre de nuevo esta página, se actualizará, 
-        tal vez en un tiempo sepa añadir comentarios pero todo a su tiempo, se vería cul una caja de comentarios, después lo haré, este 24, hoy, pasatela bien, excelente, recuerda que de alguna manera u otra yo estaré aquí para ti,
-        le hable a la psicóloga de ti ☻, Te amo Nancy, perdona si no soy tan expresivo como antes, fue uno de mis cambios para mal y sigo trabajando en eso, en la empatía, en mis enojos, en mis miedos... A, gracias por meterme al vicio de Jojo´s, esta bien cagado
-        y me gusto xd, abajito te dejaré los soundtracks que descubrí este año, tal vez te gusta una que otra canción, feliz Navidad, te espero debajo de mi arbolito. (hay algunas faltas de ortografía, lo sé, a, sé que me contradije en unas cosas como en mis cambios, solo aclaro que estoy cambiando las cosas que no me gustan y
-        no cambiare las cosas que me gustan o son un punto fuerte en mi), Pd: No se porque verga salé el cierre de etiqutas.</p> 
-     
-     <p1>
-<a href="https://music.youtube.com/playlist?list=PLcNhXwl73ExRcNPowjARQP5rhGEFEHvbn&feature=share" taret="_blank"> esta la creé yo </a>
-     </p1>
- <p2> 
-<a href="https://music.youtube.com/playlist?list=LRYRB9fBxA8rXS0AmGbOhYffwt8QpQAbCcfDQ&feature=share" taret="_blank"> esta me la creó Youtube </a>
-     </p2> 
+   <p style="color:rgb(212, 0, 255);font-size:130%;font-family:arial;text-align:center">Hola (:, weno, supongo que sabes el porque de la página y todo, en primera, iba a poner el cubito pero estorba demasiado y mejor así, weno, hoy es 24 de Diciembte del 2021, y diras <a> "no mames ya sé", obvio, bueno... Me pone algo nostalgico pensar que ya casi es fin de año, no le tomo mucha importancia a esto porque ya no me hace sentir como antes, triste y deprimido, me siento tranquilo sinceramente y es que... Pasaron demasiadas cosas este año, no exceptuo que me puse triste por cosas, pero las más importantes fueron que valió verga la BUAP jajaja, acabé el bachiller, sobreviví a la pandemia
+        conocí nuevas personas, tengo más amigos que en poco tiempo me han demostrado que soy importante, disfrute todo a pesar de las cosas malas que me pasaron, una de las mejores cosas que me paso este año fuiste tu... De alguna manera regresaste a mi vida, fue fugas, tuvimos pequeñas discusiones sobre nosotros, y pues... Realmente me gusto volver a estar contigo 2 días más, fuiste lo más importante de mi año y tal vez pienses "que cliche" pero pues tal vez lo sea, idk, soy así, no puedo cambiar, gracias a las terapias y el poder desahogarme en un diario, estoy cambiando para bien, quisiera hablar contigo pero pues... No te puedo obligar a hablarme U-U, me gusta imaginar que la vida es
+como una serie, este año tuve mi final de temporada, entre a la universida a una carrera que no me acordaba que me gustaba y existía, sufrí un vergo, extrañe... Te extrañe, y pues, solo me queda desearte una feliz navidad, me odies o no, yo sigo aquí, a menudo pienso mi muerte, pasatela increíble, duerme porque sé que trabjaste hoy y descansa, si no quieres hablarme, esta bien, no lo hagas, no te obligare a hacerlo, saluda a Coco por mi, acariciala por mi, y tapate bien, aún me preocupo por ti, aunque no te hable, no significa que no te extrañe, y si puedes y quieres,e ntra de nuevo a la página el 31 de diciembre, la actualizare.</p> 
+
+  <h2 style="color:#FFFFFF;font-family:Arial;font-size:250%;text-align:center;"> Feliz Navidad</h2>
 </body>
 </html>
 
