@@ -1,5 +1,4 @@
 EXISTE EL SPIDERVERSEEEEEEE AAAAAAA.
-
 <!DOCTYPE html>
 <html>
 <head>
@@ -22,10 +21,10 @@ EXISTE EL SPIDERVERSEEEEEEE AAAAAAA.
         no cambiare las cosas que me gustan o son un punto fuerte en mi), Pd: No se porque verga salé el cierre de etiqutas.</p> 
      
      <p1>
-<a href="https://music.youtube.com/playlist?list=PLcNhXwl73ExRcNPowjARQP5rhGEFEHvbn&feature=share"> esta la creé yo </a>
+<a href="https://music.youtube.com/playlist?list=PLcNhXwl73ExRcNPowjARQP5rhGEFEHvbn&feature=share" taret="_blank"> esta la creé yo </a>
      </p1>
  <p2> 
-<a href="https://music.youtube.com/playlist?list=LRYRB9fBxA8rXS0AmGbOhYffwt8QpQAbCcfDQ&feature=share"> esta me la creó Youtube </a>
+<a href="https://music.youtube.com/playlist?list=LRYRB9fBxA8rXS0AmGbOhYffwt8QpQAbCcfDQ&feature=share" taret="_blank"> esta me la creó Youtube </a>
      </p2> 
 </body>
 </html>
