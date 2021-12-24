@@ -6,7 +6,6 @@ EXISTE EL SPIDERVERSEEEEEEE AAAAAAA.
 </head>
 <body style="background-color:#ffffff;">
 
-
   <h1 style="color:#FFFFFF;font-family:Arial;font-size:250%;text-align:center;">No se que poner aca</h1>
    <p style="color:rgb(212, 0, 255);font-size:130%;font-family:arial;text-align:center">Hola (:, weno, supongo que sabes el porque de la página y todo, en primera, iba a poner el cubito pero estorba demasiado y mejor así, weno, hoy es 24 de Diciembte del 2021, y diras <a> "no mames ya sé", obvio, bueno... 
         me pone algo nostalgico pensar que ya casi es fin de año, no le tomo mucha importancia a esto porque ya no me hace sentir como antes, triste y deprimido, me siento tranquilo sinceramente
@@ -20,9 +19,8 @@ EXISTE EL SPIDERVERSEEEEEEE AAAAAAA.
         tal vez en un tiempo sepa añadir comentarios pero todo a su tiempo, se vería cul una caja de comentarios, después lo haré, este 24, hoy, pasatela bien, excelente, recuerda que de alguna manera u otra yo estaré aquí para ti,
         le hable a la psicóloga de ti ☻, Te amo Nancy, perdona si no soy tan expresivo como antes, fue uno de mis cambios para mal y sigo trabajando en eso, en la empatía, en mis enojos, en mis miedos... A, gracias por meterme al vicio de Jojo´s, esta bien cagado
         y me gusto xd, abajito te dejaré los soundtracks que descubrí este año, tal vez te gusta una que otra canción, feliz Navidad, te espero debajo de mi arbolito. (hay algunas faltas de ortografía, lo sé, a, sé que me contradije en unas cosas como en mis cambios, solo aclaro que estoy cambiando las cosas que no me gustan y
-        no cambiare las cosas que me gustan o son un punto fuerte en mi), Pd: No se porque verga salé el cierre de etiqutas. 
-     </p>
-
+        no cambiare las cosas que me gustan o son un punto fuerte en mi), Pd: No se porque verga salé el cierre de etiqutas.</p> 
+     
      <p1>
 <a href="https://music.youtube.com/playlist?list=PLcNhXwl73ExRcNPowjARQP5rhGEFEHvbn&feature=share"> esta la creé yo </a>
      </p1>
